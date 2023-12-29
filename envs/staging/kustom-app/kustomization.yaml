@@ -1,0 +1,7 @@
+---
+namespace: kustom-app
+images:
+  - name: lazrb/nginx
+    newTag: v0.1.0
+resources:
+  - ../../../kustom-app-base 
